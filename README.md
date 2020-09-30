@@ -40,7 +40,7 @@ Reference(s):
 
 4. Edwards, Kathryn. “What Unemployment Statistics Obscure About Temporary Layoffs,” TheRANDBlog, published online 17 August 2020. URL: https://www.rand.org/blog/2020/08/what-unemployment-statistics-obscure-about-temporary-layoffs.html. 
 
-5. Schwam, Daniel, and Kathryn Edwards, “Within Unemployment Transitions in the Current Population Survey,” GitHub, RAND Corporation Repository, last updated 24 August 2020. As of August 27, 2020: https://github.com/RANDCorporation/Temporary-Layoff-Transitions.
+5. Schwam, Daniel, and Kathryn Edwards, “Within Unemployment Transitions in the Current Population Survey,” GitHub, RAND Corporation Repository, last updated 30 September 2020. As of September 30, 2020: https://github.com/RANDCorporation/Temporary-Layoff-Transitions.
 
 ## Project members:
 
